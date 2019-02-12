@@ -1,0 +1,730 @@
+# Translation of Plugins - Accordion - Development (trunk) in Chinese (Taiwan)
+# This file is distributed under the same license as the Plugins - Accordion - Development (trunk) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: +0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: zh_TW\n"
+"Project-Id-Version: Plugins - Accordion - Development (trunk)\n"
+
+#: includes/functions-meta.php:879
+msgid "Click \"Add\" button to add your accordion content"
+msgstr "按一下[新增]紐以新增您的 Accordion 內容"
+
+#: templates/accordion/top-navs.php:21
+msgid "Collapse all"
+msgstr "全部折疊"
+
+#: templates/accordion/accordion-edit.php:20
+msgid "Only admin can see this."
+msgstr "只有管理員看的到這裡。"
+
+#: templates/accordion/accordion-edit.php:20
+msgid "Edit this accordion"
+msgstr "編輯這個 Accordion"
+
+#: includes/meta-new.php:254
+msgid "Preview may different from front-end to admin because of admin css overite some basic elements, like paragraph, h1, h2 tags and etc. to get exact result please preview on front-end."
+msgstr "因為管理後台的 CSS 影響了一些 HTML 標籤，像是 paragraph, h1, h2 等等，所以預覽可能會有些不一樣。若要獲的精確的結果，請到前台查看。"
+
+#: includes/meta-new.php:237
+msgid "Preview"
+msgstr "預覽"
+
+#: includes/meta-new.php:181
+msgid "Custom Scripts"
+msgstr "自訂指令碼"
+
+#: includes/meta-new.php:158
+msgid "Options"
+msgstr "選項"
+
+#: includes/meta-new.php:84
+msgid "Select accordion"
+msgstr "選取 Accordion"
+
+#: includes/meta-new.php:62
+msgid "Product FAQ Tab"
+msgstr "產品 FAQ 索引標籤"
+
+#: includes/functions-wc.php:20
+msgid "FAQ"
+msgstr "FAQ"
+
+#: includes/functions-meta.php:1078
+msgid "You can add custom css here, do not use <code>  &lt;style&gt; &lt;/style&gt;</code> tag"
+msgstr "你可以在這裡加入自訂的 CSS，請不要使用以下 HTML 標籤：<code> &lt;style&gt; &lt;/style&gt;</code>"
+
+#: includes/functions-meta.php:1064
+msgid "You can add custom scripts here, do not use <code>&lt;script&gt; &lt;/script&gt;</code> tag"
+msgstr "你可以在這裡加入自訂的 JS 指令碼，請不要使用以下 HTML 標籤：<code>&lt;script&gt; &lt;/script&gt;</code> "
+
+#: includes/functions-meta.php:1063
+msgid "Custom Js."
+msgstr "自訂 JavaScript。"
+
+#: includes/functions-meta.php:995 includes/functions-meta.php:1005
+msgid "Total click"
+msgstr "全選"
+
+#: includes/functions-meta.php:994 includes/functions-meta.php:1004
+msgid "Header title"
+msgstr "標題"
+
+#: includes/functions-meta.php:946
+msgid "Stats for accordion"
+msgstr "Accordion 統計資料"
+
+#: includes/functions-meta.php:937 includes/functions-meta.php:1054
+msgid "Track where user click on accordion."
+msgstr "在使用者點擊 Accordion 時追蹤他們。"
+
+#: includes/functions-meta.php:936 includes/functions-meta.php:1053
+msgid "Accordions Stats"
+msgstr "Accordions 統計"
+
+#: includes/functions-meta.php:859 includes/functions-meta.php:896
+msgid "Accordion header text"
+msgstr "Accordion 標頭文字"
+
+#: includes/functions-meta.php:858 includes/functions-meta.php:896
+msgid "Header text"
+msgstr "標頭文字"
+
+#: includes/functions-meta.php:804 templates/accordion/top-navs.php:20
+msgid "Expand all"
+msgstr "全部展開"
+
+#: includes/functions-meta.php:763
+msgid "accordion content"
+msgstr "Accordion 內容"
+
+#: includes/functions-meta.php:757
+msgid "Add you accordion content here."
+msgstr "在這裡新增你的 Accordion 內容。"
+
+#: includes/functions-meta.php:756
+msgid "Accordions Content"
+msgstr "Accordion 內容"
+
+#: includes/functions-meta.php:716
+msgid "Set container background image"
+msgstr "設定容器的背景圖像"
+
+#: includes/functions-meta.php:715
+msgid "Container background image."
+msgstr "容器背景圖像。"
+
+#: includes/functions-meta.php:703
+msgid "Justify"
+msgstr "左右對齊"
+
+#: includes/functions-meta.php:697
+msgid "Set container text align"
+msgstr "設定容器文字對齊"
+
+#: includes/functions-meta.php:696
+msgid "Container text align."
+msgstr "容器文字對齊。"
+
+#: includes/functions-meta.php:684
+msgid "Set container background color"
+msgstr "設置容器背景色"
+
+#: includes/functions-meta.php:683
+msgid "Container background color."
+msgstr "容器背景色。"
+
+#: includes/functions-meta.php:670
+msgid "Set container padding"
+msgstr "設置容器的邊框間距"
+
+#: includes/functions-meta.php:669
+msgid "Container padding."
+msgstr "容器邊框間距。"
+
+#: includes/functions-meta.php:664
+msgid "Customize accordion container settings."
+msgstr "自訂 Accordion 容器的設定。"
+
+#: includes/functions-meta.php:663
+msgid "Accordion Container Style"
+msgstr "Accordion 容器樣式"
+
+#: includes/functions-meta.php:639
+msgid "You can set custom margin for accordion content"
+msgstr "你可自訂 Accordion 容器的邊界。"
+
+#: includes/functions-meta.php:638
+msgid "Accordions content margin."
+msgstr "Accordion 內文邊界。"
+
+#: includes/functions-meta.php:626
+msgid "You can set custom padding for accordion content"
+msgstr "你可以自行設置 Accordion 內容的內距"
+
+#: includes/functions-meta.php:625
+msgid "Accordions content padding."
+msgstr "Accordion 內容內距。"
+
+#: includes/functions-meta.php:613
+msgid "You can choose custom background color for accordion content area"
+msgstr "你可以為 Accordion 內文區域設置背景顏色"
+
+#: includes/functions-meta.php:601
+msgid "You can set custom font size for accordion content"
+msgstr "你可以為 Accordion 內容區域設置文字大小"
+
+#: includes/functions-meta.php:588
+msgid "You can choose custom color for accordion content"
+msgstr "你可以為 Accordion 內容設置顏色"
+
+#: includes/functions-meta.php:579
+msgid "Customize accordion content."
+msgstr "自訂 Accordion 的內容式樣。"
+
+#: includes/functions-meta.php:578
+msgid "Accordions Content Style"
+msgstr "Accordion 內容式樣"
+
+#: includes/functions-meta.php:563
+msgid "Choose header area margin"
+msgstr "選擇標題區的邊界"
+
+#: includes/functions-meta.php:562
+msgid "Accordions header margin."
+msgstr "標頭區的邊界。"
+
+#: includes/functions-meta.php:551
+msgid "Choose header area padding"
+msgstr "選擇標頭區的內距"
+
+#: includes/functions-meta.php:550
+msgid "Accordions header padding."
+msgstr "Accordion 標題區的內距。"
+
+#: includes/functions-meta.php:539
+msgid "Choose font size for header text"
+msgstr "選擇標頭區的文字大小"
+
+#: includes/functions-meta.php:524
+msgid "Accordions header font color on hover."
+msgstr "Accordion 標頭於鼠標懸停時的文字顏色。"
+
+#: includes/functions-meta.php:512 includes/functions-meta.php:525
+msgid "Font color for accordion headers"
+msgstr "Accordion 標題的文字顏色"
+
+#: includes/functions-meta.php:499
+msgid "Background color of header on active stats"
+msgstr "展開時標頭的背景色"
+
+#: includes/functions-meta.php:484
+msgid "Background color of header on idle"
+msgstr "收縮時標題的背景色"
+
+#: includes/functions-meta.php:475
+msgid "Customize accordion header."
+msgstr "自訂 Accordion 標頭。"
+
+#: includes/functions-meta.php:474
+msgid "Accordion Header Style"
+msgstr "Accordion 標頭式樣"
+
+#: includes/functions-meta.php:459
+msgid "You can set custom font size."
+msgstr "你可以自訂文字大小。"
+
+#: includes/functions-meta.php:447
+msgid "Color for icons on mousehover"
+msgstr "圖示於鼠標滑過時之顏色"
+
+#: includes/functions-meta.php:446
+msgid "Icon hover color"
+msgstr "圖示於鼠標滑過時之顏色"
+
+#: includes/functions-meta.php:435
+msgid "Color for icons"
+msgstr "圖示顏色"
+
+#: includes/functions-meta.php:424
+msgid "fas fa-chevron-down"
+msgstr "fas fa-chevron-down"
+
+#: includes/functions-meta.php:421
+msgid "Icon for activate, you can use <a target=\"_blank\" href=\"https://fontawesome.com/icons\">Font Awesome</a> icons, just put the css class <code>fas fa-chevron-down</code>"
+msgstr "展開時的圖示，顯示出展開的狀態，你可以選用<a target=\"_blank\" href=\"https://fontawesome.com/icons\">Font Awesome</a> 的圖示，只需將css class設為 <code>fas fa-chevron-down</code>"
+
+#: includes/functions-meta.php:410
+msgid "fas fa-chevron-up"
+msgstr "fas fa-chevron-up"
+
+#: includes/functions-meta.php:407
+msgid "Icon for idle, you can use <a target=\"_blank\" href=\"https://fontawesome.com/icons\">Font Awesome</a> icons, just put the css class <code>fas fa-chevron-up</code>"
+msgstr "收合時的圖示，顯示出已收合的狀態，你可以選用<a target=\"_blank\" href=\"https://fontawesome.com/icons\">Font Awesome</a> 的圖示，只需將css class設為 <code>fas fa-chevron-up</code>"
+
+#: includes/functions-meta.php:406
+msgid "Plus icon"
+msgstr "展開圖示"
+
+#: includes/functions-meta.php:400
+msgid "Customize accordion icons."
+msgstr "自訂 Accordion 圖示。"
+
+#: includes/functions-meta.php:399
+msgid "Accordion Icons"
+msgstr "Accordion 圖示"
+
+#: includes/functions-meta.php:386
+msgid "You can choose accordion theme here."
+msgstr "你可以在此挑選 Accordion 之主題。"
+
+#: includes/functions-meta.php:385
+msgid "Accordion themes"
+msgstr "Accordion 之主題"
+
+#: includes/functions-meta.php:373
+msgid "You can style accordion here."
+msgstr "你可以在此點綴你的 Accordion。"
+
+#: includes/functions-meta.php:372
+msgid "Accordion Style Settings"
+msgstr "Accordion 樣式設置"
+
+#: includes/functions-meta.php:323
+msgid "Event for activate tabs"
+msgstr "何時觸發此索引標籤"
+
+#: includes/functions-meta.php:308
+msgid "Make tabs collapsible."
+msgstr "讓索引標籤可以折疊。"
+
+#: includes/functions-meta.php:301
+msgid "Settings for tabs"
+msgstr "索引標籤的設定"
+
+#: includes/functions-meta.php:300
+msgid "Tabs Settings"
+msgstr "索引標籤設定"
+
+#: includes/functions-meta.php:283
+msgid "You can display/hide accordion edit link on front-end"
+msgstr "你可以在前台顯示或隱藏「編輯 Accordion」的字樣"
+
+#: includes/functions-meta.php:282
+msgid "Hide edit link on front-end."
+msgstr "在前台隱藏編輯連結。"
+
+#: includes/functions-meta.php:267
+msgid "You can set custom image source for lazy load icon."
+msgstr "你可以設定延遲載入的圖示來源。"
+
+#: includes/functions-meta.php:266
+msgid "Lazy load image source"
+msgstr "延遲載入的圖片來源"
+
+#: includes/functions-meta.php:252
+msgid "Accordion content will be hidden until page load completed."
+msgstr "Accordion 內容將被隱藏，直到頁面加載完成。"
+
+#: includes/functions-meta.php:251
+msgid "Enable lazy load"
+msgstr "啟用延遲載入"
+
+#: includes/functions-meta.php:241
+msgid "Focus"
+msgstr "成為焦點時"
+
+#: includes/functions-meta.php:236
+msgid "Activate event type for header."
+msgstr "選擇當標頭遇到什麼事件時會被觸發。"
+
+#: includes/functions-meta.php:217
+msgid "accordion content style."
+msgstr "Accordion 內容的高度設定，填滿或與內容同高。"
+
+#: includes/functions-meta.php:216
+msgid "Content height style"
+msgstr "內容高度選項"
+
+#: includes/functions-meta.php:206 includes/functions-meta.php:256
+#: includes/functions-meta.php:287
+msgid "Yes"
+msgstr "是"
+
+#: includes/functions-meta.php:205 includes/functions-meta.php:255
+#: includes/functions-meta.php:286
+msgid "No"
+msgstr "否"
+
+#: includes/functions-meta.php:202
+msgid "This is useful when use collapsible."
+msgstr "這選項在可折疊時非常好用。"
+
+#: includes/functions-meta.php:201
+msgid "Keep expanded others"
+msgstr "讓其他 Accordion 保持展開"
+
+#: includes/functions-meta.php:186
+msgid "Make accordion collapsible."
+msgstr "讓 Accordion 可以折疊。"
+
+#: includes/functions-meta.php:176
+msgid "Some general setting for accordion"
+msgstr "一些 Accordion 的一般設定"
+
+#: includes/functions-meta.php:175
+msgid "Accordion Settings"
+msgstr "Accordion 設定"
+
+#: includes/functions-meta.php:85
+msgid "To avoid conflict with 3rd party shortcode also used same <code>[accordions_tabs]</code>You can use this shortcode under post content"
+msgstr "為避免其他外掛也使用相同的短代碼，你也可以在你的文章中使用 <code>[accordions_tabs]</code>"
+
+#: includes/functions-meta.php:49 includes/functions-meta.php:95
+msgid "To avoid conflict, PHP code you can use under theme .php files."
+msgstr "為避免衝突，您可以在主題的.php檔案內使用這些PHP程式碼。"
+
+#: includes/functions-meta.php:44 includes/functions-meta.php:90
+msgid "PHP Code, you can use under theme .php files."
+msgstr "PHP程式碼，您可以在主題的.php檔案內使用。"
+
+#: includes/functions-meta.php:39
+msgid "To avoid conflict with 3rd party shortcode also used same <code>[accordions]</code>You can use this shortcode under post content."
+msgstr "為避免其他外掛也使用相同的短代碼，你也可以在你的文章中使用 <code>[accordions]</code>。"
+
+#: includes/functions-meta.php:34 includes/functions-meta.php:80
+msgid "You can use this shortcode under post content"
+msgstr "您可以在文章內容中使用這個短代碼"
+
+#: includes/functions-meta.php:33 includes/functions-meta.php:38
+#: includes/functions-meta.php:43 includes/functions-meta.php:48
+#: includes/functions-meta.php:79 includes/functions-meta.php:84
+#: includes/functions-meta.php:89 includes/functions-meta.php:94
+msgid "Copied"
+msgstr "已複製"
+
+#: includes/functions-meta.php:22
+msgid "Simply copy these shortcode and user under content"
+msgstr "複製，然後貼到文章內"
+
+#: includes/functions-meta.php:21
+msgid "Shortcodes"
+msgstr "短代碼"
+
+#: includes/class-widget-accordions.php:39
+msgid "Select Accordion"
+msgstr "選取 Accordion"
+
+#: includes/class-widget-accordions.php:34
+msgid "Title"
+msgstr "標題"
+
+#: includes/class-widget-accordions.php:13
+msgid "Show Accordions"
+msgstr "顯示 Accordion"
+
+#: includes/class-settings.php:516 includes/class-settings.php:517
+msgid "Accordion - Settings"
+msgstr "Accordion - 設定"
+
+#: includes/class-settings.php:515
+msgid "Settings"
+msgstr "設定"
+
+#: includes/class-settings.php:497
+msgid "Please put the url of json file where you uploaded the file."
+msgstr "請貼上 JSON 設定檔的 URL。"
+
+#: includes/class-settings.php:489
+msgid "Please download this json first and upload somewhere, you can import by using the url of json file."
+msgstr "請下載此 JSON 並上傳至某個空間，你可以藉由URL匯入此 JSON。"
+
+#: includes/class-settings.php:483
+msgid "you can Export/import accordions here."
+msgstr "你可以在此匯入/匯出你的 Accordion。"
+
+#: includes/class-settings.php:291 includes/class-settings.php:292
+msgid "Accordion - License"
+msgstr "Accordion - 授權"
+
+#: includes/class-settings.php:257
+msgid "If you have license key, please activate your plugin here."
+msgstr "若你擁有授權識別碼，請在此啟用你的外掛。"
+
+#: includes/class-settings.php:256
+msgid "Activate license"
+msgstr "啟用授權"
+
+#: includes/class-settings.php:251 includes/class-settings.php:262
+#: includes/class-settings.php:290
+msgid "License"
+msgstr "授權"
+
+#: includes/class-settings.php:222 includes/class-settings.php:223
+msgid "Accordion - Help"
+msgstr "Accordion - 說明"
+
+#: includes/class-settings.php:147
+msgid "Some ready plugin for your project."
+msgstr "一些已為你的專案備妥的外掛。"
+
+#: includes/class-settings.php:140
+msgid "Ready Plugins"
+msgstr "一些外掛已就緒"
+
+#: includes/class-settings.php:50
+msgid "If you still have any question please contact our support."
+msgstr "若有任何疑問，聯絡我們的支援團隊。"
+
+#: includes/class-settings.php:49
+msgid "Frequently asked questions"
+msgstr "常見問題"
+
+#: includes/class-settings.php:41
+msgid "Your feedback and reviews are most important things to keep our development on track. If you have time please submit us five star <span style=\"color: orange\"><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i></span> reviews."
+msgstr "您的意見和評論是我們開發時最關注的事。若有時間請給我們五星評價<span style=\"color: orange\"><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i></span>。"
+
+#: includes/class-settings.php:33
+msgid "Before asking, submitting reviews please take a look on our documentation, may help your issue fast."
+msgstr "在詢問，提交評論之前，請查看我們的文件，可以幫助您盡快解決問題。"
+
+#: includes/class-settings.php:32
+msgid "Read documentation"
+msgstr "閱讀文件"
+
+#: includes/class-settings.php:25
+msgid "Its free and you can ask any question about our plugins and get support fast."
+msgstr "你可以免費在討論區討論關於外掛的任何問題，也可以尋求社群的幫助。"
+
+#: includes/class-settings.php:24
+msgid "Ask on our forum"
+msgstr "在論壇尋求幫助"
+
+#: includes/class-settings.php:20 includes/class-settings.php:141
+msgid "If you have any issue for accordion please feel free to contact our support"
+msgstr "如果您對 Accordion 有任何疑問，請隨時聯絡我們的客服"
+
+#: includes/class-settings.php:19
+msgid "Get Help & Support"
+msgstr "取得客服的幫助"
+
+#: includes/class-functions.php:30
+msgid "Semi Rounded"
+msgstr "圓潤"
+
+#: includes/class-functions.php:24
+msgid "Flat"
+msgstr "銳利"
+
+#: includes/class-settings.php:496
+msgid "Import"
+msgstr "匯入"
+
+#: includes/class-settings.php:488
+msgid "Export"
+msgstr "匯出"
+
+#: includes/class-settings.php:477 includes/class-settings.php:482
+msgid "Export/import"
+msgstr "匯入/匯出"
+
+#. Author URI of the plugin
+msgid "http://pickplugins.com"
+msgstr "http://pickplugins.com"
+
+#. Author of the plugin
+msgid "PickPlugins"
+msgstr "挑選外掛"
+
+#. Description of the plugin
+msgid "Fully responsive and mobile ready accordion grid for wordpress."
+msgstr "為行動裝置準備的響應式 Accordion 網格已在WordPress。"
+
+#. Plugin URI of the plugin
+msgid "https://www.pickplugins.com/item/accordions-html-css3-responsive-accordion-grid-for-wordpress/?ref=dashboard"
+msgstr "https://www.pickplugins.com/item/accordions-html-css3-responsive-accordion-grid-for-wordpress/?ref=dashboard"
+
+#: includes/functions-meta.php:852
+msgid "Hide on Frontend"
+msgstr "在前台隱藏"
+
+#: includes/functions-meta.php:836
+msgid "Remove"
+msgstr "移除"
+
+#: includes/functions-meta.php:803
+msgid "Add"
+msgstr "新增"
+
+#: includes/functions-meta.php:612
+msgid "Accordions content background color."
+msgstr "Accordion 內容背景色。"
+
+#: includes/functions-meta.php:600
+msgid "Accordions content font size."
+msgstr "Accordion 內容文字大小。"
+
+#: includes/functions-meta.php:587
+msgid "Accordions content font color."
+msgstr "Accordion 內容文字顏色。"
+
+#: includes/functions-meta.php:762
+msgid "Accordions Content."
+msgstr "Accordion 內容。"
+
+#: includes/functions-meta.php:538
+msgid "Accordions header font size."
+msgstr "Accordion 標頭文字大小。"
+
+#: includes/functions-meta.php:511
+msgid "Accordions header font color."
+msgstr "Accordion 標頭文字顏色。"
+
+#: includes/functions-meta.php:498
+msgid "Active background color."
+msgstr "展開時的背景色。"
+
+#: includes/functions-meta.php:483
+msgid "Default background color."
+msgstr "預設背景色。"
+
+#: includes/functions-meta.php:458
+msgid "Icon font size"
+msgstr "圖示文字大小"
+
+#: includes/functions-meta.php:434
+msgid "Icons color"
+msgstr "圖示顏色"
+
+#: includes/functions-meta.php:420
+msgid "Minus icon"
+msgstr "收起圖示"
+
+#: includes/functions-meta.php:701
+msgid "Right"
+msgstr "靠右"
+
+#: includes/functions-meta.php:702
+msgid "Center"
+msgstr "置中"
+
+#: includes/functions-meta.php:700
+msgid "Left"
+msgstr "靠左"
+
+#: includes/functions-meta.php:240 includes/functions-meta.php:327
+msgid "Mouseover"
+msgstr "鼠標滑過"
+
+#: includes/functions-meta.php:239 includes/functions-meta.php:326
+msgid "Click"
+msgstr "點擊"
+
+#: includes/functions-meta.php:235 includes/functions-meta.php:322
+msgid "Activate event"
+msgstr "觸發事件"
+
+#: includes/functions-meta.php:222
+msgid "Fill"
+msgstr "填滿"
+
+#: includes/functions-meta.php:190 includes/functions-meta.php:312
+msgid "False"
+msgstr "否"
+
+#: includes/functions-meta.php:189 includes/functions-meta.php:311
+msgid "True"
+msgstr "是"
+
+#: includes/functions-meta.php:185 includes/functions-meta.php:307
+msgid "Collapsible"
+msgstr "可折疊"
+
+#: includes/functions-meta.php:137
+msgid "Tabs Shortcodes"
+msgstr "索引標籤短代碼"
+
+#: includes/functions-meta.php:60
+msgid "Accordion Shortcode"
+msgstr "Accordion 短代碼"
+
+#: includes/functions-meta.php:1077
+msgid "Custom CSS."
+msgstr "自訂 CSS。"
+
+#: includes/meta-new.php:172 includes/functions-meta.php:221
+#: includes/functions-meta.php:860 includes/functions-meta.php:896
+msgid "Content"
+msgstr "內容"
+
+#: includes/meta-new.php:165
+msgid "Style"
+msgstr "樣式"
+
+#: includes/meta-new.php:59
+msgid "Accordions Options"
+msgstr "Accordions 選項"
+
+#: includes/meta-new.php:22
+msgid "Nothing found in Trash"
+msgstr "垃圾桶中無垃圾"
+
+#: includes/meta-new.php:21
+msgid "Nothing found"
+msgstr "找不到任何東西"
+
+#: includes/meta-new.php:20
+msgid "Search Accordions"
+msgstr "搜尋 Accordion"
+
+#: includes/meta-new.php:19
+msgid "View Accordions"
+msgstr "檢視 Accordion"
+
+#: includes/meta-new.php:17
+msgid "Edit Accordions"
+msgstr "編輯 Accordion"
+
+#: includes/meta-new.php:15 includes/meta-new.php:16 includes/meta-new.php:18
+msgid "New Accordions"
+msgstr "新增 Accordion"
+
+#. Plugin Name of the plugin
+#: includes/meta-new.php:13 includes/meta-new.php:14
+#: includes/class-widget-accordions.php:13
+#: includes/class-widget-accordions.php:29
+msgid "Accordions"
+msgstr "Accordions"
+
+#: includes/class-settings.php:40
+msgid "Submit reviews"
+msgstr "提交評論"
+
+#: includes/class-settings.php:135 includes/class-settings.php:146
+msgid "Our Plugins"
+msgstr "為您推薦"
+
+#: includes/class-settings.php:221
+msgid "Help & Support"
+msgstr "說明與支援"
+
+#: includes/class-settings.php:14
+msgid "Help"
+msgstr "取得幫助"
+
+#: includes/meta-new.php:150 includes/functions.php:102
+msgid "Shortcode"
+msgstr "短代碼"
+
+#: includes/functions.php:152 accordions.php:169
+msgid "Buy Premium!"
+msgstr "購買進階版！"
+
+#: accordions.php:144
+msgid "Confirm"
+msgstr "確認"
